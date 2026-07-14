@@ -13,12 +13,15 @@ Choose the path that fits your workflow:
 | | Best for | Install |
 |---|---|---|
 | **[Playwright Test](#playwright-test)** | End-to-end testing | `npm init playwright@latest` |
-| **[Playwright CLI](#playwright-cli)** | Coding agents (Claude Code, Copilot) | `npm i -g @playwright/cli@latest` |
+buihin dang sua o day ne| **[Playwright CLI](#playwright-cli)** | Coding agents (Claude Code, Copilot) | `npm i -g @playwright/cli@latest` |
 | **[Playwright MCP](#playwright-mcp)** | AI agents and LLM-driven automation | `npx @playwright/mcp@latest` |
 | **[Playwright Library](#playwright-library)** | Browser automation scripts | `npm i playwright` |
 | **[VS Code Extension](#vs-code-extension)** | Test authoring and debugging in VS Code | [Install from Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) |
 
----
+
+buihien da vao day sua bai
+helloo
+
 
 ## Playwright Test
 
@@ -317,3 +320,4 @@ Playwright is also available for [Python](https://playwright.dev/python/docs/int
 * [Changelog](https://github.com/microsoft/playwright/releases)
 * [Discord](https://aka.ms/playwright/discord)
 
+da vao day suaa bai
