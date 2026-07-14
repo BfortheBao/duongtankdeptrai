@@ -14,4 +14,4 @@ func Bai6() {
 		}
 	}
 }
-t
+Tem da o dayyyyyyyyyyy
