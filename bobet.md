@@ -1,6 +1,3 @@
-buihien dang o day
-Conmeongungocmeowmeow
-
 
 Conmeongungocmeowmeo
 
