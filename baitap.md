@@ -72,3 +72,32 @@ hello moi nguoi
 - Coverage tối thiểu 60–70% cho tầng service/business logic
 - Toàn bộ hệ thống chạy được bằng container hóa
 
+
+
+--------------------------------
+
+buihin bat dau viet:
+package main
+
+import "fmt"
+
+func Sum(a, b int) int {
+	return a + b
+}
+
+func main() {
+	fmt.Println(Sum(3, 5))
+}
+
+---------------
+bo bat dau viet:
+東嶽雲峰起，
+溶溶滿太虛。
+震雷翻幕燕，
+驟雨落河魚。
+座對賢人酒，
+門聽長者車。
+相邀愧泥濘，
+騎馬到階除
+
+
