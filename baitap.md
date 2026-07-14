@@ -72,3 +72,20 @@ hello moi nguoi
 - Coverage tối thiểu 60–70% cho tầng service/business logic
 - Toàn bộ hệ thống chạy được bằng container hóa
 
+
+
+--------------------------------
+
+buihin bat dau viet:
+package main
+
+import "fmt"
+
+func Sum(a, b int) int {
+	return a + b
+}
+
+func main() {
+	fmt.Println(Sum(3, 5))
+}
+
